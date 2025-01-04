@@ -1,5 +1,10 @@
 # spa-cdk-deploy
 Deploy a single page web app to AWS using the Go CDK.
+This assumes you have a domain name already registered.
+
+[Architecture overview](https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/getting-started-secure-static-website-cloudformation-template.html)
+
+![block diagram](img.png)
 
 Inspired by: https://www.youtube.com/watch?v=2DzEF3deOLw
 
